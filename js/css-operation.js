@@ -5,6 +5,7 @@ $(function() {
       $('#target').css('color', 'red');
     });
  
+    //test
     // id属性がblueの要素がクリックされたら
     $('#blue').on('click', function(){
       // id属性がtargetの要素のcolorプロパティをblueにする
